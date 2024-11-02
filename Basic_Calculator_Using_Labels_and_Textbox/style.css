@@ -1,0 +1,36 @@
+/* Anthony Granston
+23010824
+23010824@kcc.edu.jm  */
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #7C98B3;
+}
+
+h1{
+    display:block;
+    margin-top:250px;
+}
+
+.input-container{
+    display: block;
+}
+
+.input-container, .button-container {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #1E2934;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+#result {
+    font-weight: bold;
+    font-size:30px;
+}
